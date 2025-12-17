@@ -1,34 +1,55 @@
+﻿[//]: # (Author: Ashraf Morningstar | GitHub: https://github.com/AshrafMorningstar)
 # Micro-Mentorship PWA
 
-🚀 Instant WebRTC mentorship sessions and matchmaking.
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/micro-mentorship-pwa)
 
-## 🔍 Why this project exists
+ðŸš€ Instant WebRTC mentorship sessions and matchmaking.
+
+## ðŸ” Why this project exists
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/micro-mentorship-pwa)
 A production-grade implementation demonstrating modern web engineering practices, focusing on performance, accessibility, and scalability.
 
-## ✨ Features
-- 🚀 Production-ready architecture
-- 🎨 Premium UI/UX design system
-- ♿ WCAG AA Accessible
-- 📱 Fully Responsive
-- ⚡ Optimized Performance
+## âœ¨ Features
 
-## 🧠 Architecture
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/micro-mentorship-pwa)
+- ðŸš€ Production-ready architecture
+- ðŸŽ¨ Premium UI/UX design system
+- â™¿ WCAG AA Accessible
+- ðŸ“± Fully Responsive
+- âš¡ Optimized Performance
+
+## ðŸ§  Architecture
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/micro-mentorship-pwa)
 Built with clean separation of concerns and modern design patterns.
 
-## 🚀 Live Demo
+## ðŸš€ Live Demo
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/micro-mentorship-pwa)
 [Deployment Link Placeholder]
 
-## 📦 Installation
+## ðŸ“¦ Installation
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/micro-mentorship-pwa)
 ```bash
 npm install
 npm run dev
 ```
 
-## 🛠 Tech Stack
-WebRTC • PWA • Node.js
+## ðŸ›  Tech Stack
 
-## 📈 SEO Keywords
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/micro-mentorship-pwa)
+WebRTC â€¢ PWA â€¢ Node.js
+
+## ðŸ“ˆ SEO Keywords
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/micro-mentorship-pwa)
 webrtc app, mentoring platform
 
-## 📄 License
+## ðŸ“„ License
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/ashraf-morningstar-labs/micro-mentorship-pwa)
 MIT
+
+
